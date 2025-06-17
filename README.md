@@ -1,4 +1,4 @@
-# ecommerce-aks 🚀
+# ecommerce-aks
 
 This project contains all the files you need to deploy our e-commerce microservices app to Azure Kubernetes Service (AKS).
 
